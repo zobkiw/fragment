@@ -4,9 +4,9 @@
 
 ---
 
-In 1995, my first book, A Fragment of Your Imagination, was published by Addison-Wesley.
+In 1995, my first book, **A Fragment of Your Imagination**, was published by Addison-Wesley.
 
-[Scott Knaster](https://scottknaster.substack.com/) wrote the Foreword which was a real coup for me as a first time author.
+[Scott Knaster](https://scottknaster.substack.com/) wrote the Foreword which was a real coup for me as a first time author. Scott had already written **How to Write Macintosh Software: The Debugging Reference for Macintosh** and **Macintosh Programming Secrets** - two staples for every early Macintosh programmer.
 
 As you would guess, the book is now extremely out of date but if you're into retro programming, you might still get some use out of it. I make no guarantees as to its usefulness or functionality.
 
