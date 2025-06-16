@@ -15,3 +15,14 @@ As you would guess, the book is now extremely out of date but if you're into ret
 The book is available online, for free, as a PDF at [vintageapple.org](https://vintageapple.org/macprogramming/pdf/A_Fragment_Of_Your_Imagination_1995.pdf) or a ZIP file via [GitHub](https://github.com/zobkiw/fragment/blob/main/A_Fragment_of_Your_Imagination_1995.pdf.zip)
 
 The original contents of the CD are coming soon <strike>available [here](https://github.com/zobkiw/fragment)</strike>
+
+---
+
+I hope you enjoy this.
+
+---
+
+<img src="https://github.com/zobkiw/fragment/blob/main/fragment-front-cover.png" width="50%" height="50%">
+
+<img src="https://github.com/zobkiw/fragment/blob/main/fragment-back-cover.png" width="50%" height="50%">
+
