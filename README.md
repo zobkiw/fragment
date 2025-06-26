@@ -22,6 +22,8 @@ A dmg file of the CD is available [here](https://drive.google.com/file/d/19Zbw0s
 
 I hope you enjoy this.
 
+Special thanks to a number of friends who helped gather and convert the files in this repo - including Doug Wyatt, Jim Luther, Mark Munz, John Pellino, Mike Wolfinbarger, and Stephan Sokolow.
+
 ---
 
 <img src="https://github.com/zobkiw/fragment/blob/main/fragment-front-cover.png" width="50%" height="50%">
