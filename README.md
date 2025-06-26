@@ -28,3 +28,4 @@ I hope you enjoy this.
 
 <img src="https://github.com/zobkiw/fragment/blob/main/fragment-back-cover.png" width="50%" height="50%">
 
+<img src="https://github.com/zobkiw/fragment/blob/main/disc_silkscreen.png" width="50%" height="50%">
